@@ -1,0 +1,11 @@
+code,type,intitule,certificateur,niveau,echeance,cpf,pro,domaine_ia
+RNCP37927,RNCP,Manager en intelligence artificielle,RNCP/Ministere,7,2028-12-31,oui,oui,IA generale
+RNCP36129,RNCP,Expert en data science et intelligence artificielle,Ecole IA,7,2027-06-30,oui,oui,Data science + ML
+RNCP35634,RNCP,Concepteur developpeur en intelligence artificielle,SIMPLON,6,2027-12-31,oui,oui,Dev IA
+RS6193,RS,Developper une solution d'IA avec Python,OpenClassrooms,non applicable,2026-12-31,oui,non,ML Python
+RS6462,RS,Mettre en oeuvre l'IA dans l'entreprise,BusinessDigital.fr,non applicable,2028-06-30,oui,non,IA generative
+RNCP38755,RNCP,Chef de projet en intelligence artificielle,CNAM,6,2029-01-31,oui,oui,Gestion projet IA
+RS5847,RS,Utiliser l'intelligence artificielle generative en contexte professionnel,Microsoft,non applicable,2027-03-31,oui,non,IA generative
+RNCP37137,RNCP,Ingenieur en machine learning,Polytechnique,7,2028-06-30,oui,oui,Machine learning
+RS6290,RS,Deployer des modeles de NLP en production,Hugging Face,non applicable,2027-09-30,oui,non,NLP
+RNCP36684,RNCP,Data engineer specialise IA,Wild Code School,6,2027-12-31,oui,oui,Data engineering IA
